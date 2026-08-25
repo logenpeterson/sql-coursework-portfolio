@@ -15,3 +15,5 @@ Academic SQL project demonstrating database queries, joins, filtering, and repor
 * `06-advanced-queries-and-college-schema.sql` — Combines advanced Northwind queries, subqueries, joins, null-value analysis, calculated employee compensation, and ranked product results with the creation of a separate college enrollment database using primary keys, foreign keys, and relational tables. *(Final Exam)*
 
 * `setup/northwind-database-setup.sql` — Initializes the Northwind sample database used by the query assignments. This supporting file is included only to provide the database structure required to run the examples.
+
+* `setup/northwind-ap-setup.sql` — Initializes the Northwind sample ap used by the query assignments. This supporting file is included only to provide the ap structure required to run the examples.
