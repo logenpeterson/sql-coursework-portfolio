@@ -1,4 +1,4 @@
-# SQL-Coursework-Portfolio
+# sql-coursework-portfolio
 Academic SQL project demonstrating database queries, joins, filtering, and reporting.
 ## Included SQL Files
 
